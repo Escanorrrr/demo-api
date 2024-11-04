@@ -1,0 +1,58 @@
+# Build sonuçları
+bin/
+obj/
+
+# Visual Studio Cache dosyaları
+.vs/
+*.user
+*.suo
+
+# Rider ve diğer IDE dosyaları
+.idea/
+*.sln.iml
+
+# Kullanıcı ayarları dosyaları
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider ayarları
+.idea/
+
+# Auto-generated UI debug database
+*.vscode/*
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Log dosyaları
+*.log
+*.tlog
+
+# Paketler
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Publish sonuçları
+.publish/
+
+# Diğer geçici dosyalar
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# DotNet dosyaları
+project.lock.json
+project.fragment.lock.json
+artifacts/
